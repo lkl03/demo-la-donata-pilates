@@ -1,2 +1,7 @@
-# demo-la-donata-pilates
-Demo web para LA DONATA PILATES — diseñada por eterlab.
+# LA DONATA PILATES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
